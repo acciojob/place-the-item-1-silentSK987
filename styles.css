@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.main{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	font-size:50px;
+}
+div>box1{
+	width:100px;
+	height:100px;
+/* 	order:2; */
+}
